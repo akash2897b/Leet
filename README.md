@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akash2897b/Leet/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/akash2897b/Leet/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
